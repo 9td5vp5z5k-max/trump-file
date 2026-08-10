@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#101010"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css">
+<title>Trump File</title></head><body>
+<header class="topbar"><div><div class="eyebrow">THE SECOND-TERM ARCHIVE</div><h1>TRUMP FILE</h1><div class="tagline">We provide the receipts. You provide the reaction.</div></div><button id="installBtn" class="ghost" hidden>Install</button></header>
+<nav class="tabs"><button data-tab="latest" class="active">Latest</button><button data-tab="defense">🧢 Defense Mode</button><button data-tab="promises">Promises</button><button data-tab="vs">Trump vs. Trump</button></nav>
+<main>
+<section class="hero"><div class="counter-label">VERIFIED ARCHIVE ENTRIES</div><div id="counter" class="counter">—</div>
+<div class="counter-sub"><span id="todayCount">0</span> today · <span id="weekCount">0</span> last 7 days · <span id="monthCount">0</span> last 30 days</div><div class="source-count"><span id="sourceCount">0</span> primary-source records indexed</div>
+<div class="hero-actions"><button id="randomBtn">🎲 Give Me One</button><button id="receiptsBtn" class="secondary">🧾 Receipts Only</button></div></section>
+
+<section class="statusbox"><b>Two counters, two meanings.</b> “Verified Archive Entries” are reviewed incidents/claims/actions. “Primary-source records indexed” is the much larger research library feeding review.</section><section id="latest" class="panel tabpanel active">
+<div class="controls"><input id="search" type="search" placeholder="Search quote, policy, promise, topic…"><select id="filter"><option value="all">Everything</option><option value="statement">Things He Said</option><option value="policy">Things He Did</option><option value="promise">Campaign Promises</option><option value="contradiction">Trump vs. Trump</option></select></div>
+<div class="section-heading"><h2>Latest</h2><span id="updated"></span></div><div id="cards" class="cards"></div></section>
+
+<section id="defense" class="panel tabpanel">
+<div class="mode-head"><span class="hat">🧢</span><div><div class="eyebrow">TRUMP DEFENSE MODE</div><h2>Heard a familiar defense?</h2><p>Pick the argument. We pull the receipts. If the defense is supported, the app says so.</p></div></div>
+<div id="defenseButtons" class="defense-grid"></div><div id="defenseResults" class="cards"></div></section>
+
+<section id="promises" class="panel tabpanel"><div class="section-heading"><h2>Campaign Promise Reality Check</h2></div><p class="lede">Kept, broken, partial, stalled and pending belong in the same database.</p><div id="promiseCards" class="cards"></div></section>
+
+<section id="vs" class="panel tabpanel"><div class="section-heading"><h2>Trump vs. Trump</h2></div><p class="lede">Promises or stated principles compared with later actions and outcomes. Context and appellate updates are mandatory.</p><div id="vsCards" class="cards"></div></section>
+</main>
+<dialog id="dialog"><button id="closeDialog" class="dialog-close">✕</button><div id="dialogBody"></div></dialog>
+<footer><b>Editorial rule:</b> Satire may be sharp. Facts must be sourced. The archive changes when the evidence changes.</footer>
+<script src="app.js"></script></body></html>

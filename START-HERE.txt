@@ -1,0 +1,26 @@
+TRUMP FILE v0.4 — START HERE
+
+This package is ready to become a live iPhone-accessible website/PWA.
+
+WHAT I COULD COMPLETE HERE
+- App UI and data model
+- Defense Mode + buzzer
+- Verified-entry counter
+- Separate large primary-source research counter
+- Historical crawler for White House remarks/actions + Federal Register
+- Daily updater
+- GitHub Pages deployment workflow
+- Offline PWA support
+
+WHAT REQUIRES YOUR HOSTING ACCOUNT
+This ChatGPT session has no GitHub connector, so I cannot create/publish a repository in your account.
+
+FASTEST PATH
+1. Create an empty GitHub repository (for example: trump-file).
+2. Upload the contents of this ZIP to the repository.
+3. In GitHub Settings > Pages, choose GitHub Actions.
+4. In Actions, manually run “Historical source backfill” once.
+5. The Pages workflow then publishes the app.
+6. Open the resulting site on iPhone > Share > Add to Home Screen.
+
+After that, the included daily workflow continues source discovery automatically.

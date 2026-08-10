@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Trump File Entry",
+  "type": "object",
+  "required": [
+    "id",
+    "date",
+    "type",
+    "category",
+    "satiricalTitle",
+    "summary",
+    "context",
+    "verdict",
+    "sourceTier",
+    "sources"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "date": {
+      "type": "string"
+    },
+    "type": {
+      "enum": [
+        "statement",
+        "policy",
+        "promise",
+        "contradiction",
+        "source"
+      ]
+    },
+    "category": {
+      "type": "string"
+    },
+    "satiricalTitle": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "context": {
+      "type": "string"
+    },
+    "verdict": {
+      "enum": [
+        "verified",
+        "mixed",
+        "pending",
+        "disputed",
+        "corrected"
+      ]
+    },
+    "sourceTier": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "label",
+          "url"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

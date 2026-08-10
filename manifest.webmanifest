@@ -1,0 +1,9 @@
+{
+  "name": "Trump File \u2014 The Second-Term Archive",
+  "short_name": "Trump File",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0d0e",
+  "theme_color": "#101010",
+  "description": "A sourced, satirical archive of documented second-term Trump statements, actions, contradictions and promise status."
+}

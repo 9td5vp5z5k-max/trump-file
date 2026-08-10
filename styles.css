@@ -1,0 +1,21 @@
+:root{--bg:#0d0d0e;--panel:#171719;--panel2:#202023;--text:#f7f4eb;--muted:#aaa8a1;--red:#b21f2d;--cream:#eee5d4;--line:#303035}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.topbar{display:flex;justify-content:space-between;align-items:center;padding:22px max(18px,calc((100% - 940px)/2));border-bottom:1px solid var(--line);background:#111}
+.eyebrow{font-size:11px;letter-spacing:.18em;color:#d0c9bb;font-weight:900}h1{margin:3px 0 0;font:700 34px Georgia,serif}.tagline,.lede{color:var(--muted)}
+.tabs{position:sticky;top:0;z-index:3;display:flex;gap:6px;overflow:auto;padding:9px max(12px,calc((100% - 940px)/2));background:rgba(13,13,14,.95);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.tabs button{white-space:nowrap;background:#1a1a1d;color:#bbb;border:1px solid #29292d}.tabs button.active{background:var(--cream);color:#111}
+main{max-width:940px;margin:auto;padding:18px 16px 70px}.hero{text-align:center;padding:30px 18px;background:linear-gradient(180deg,#1b1b1d,#121214);border:1px solid var(--line);border-radius:22px}
+.counter-label{font-size:12px;letter-spacing:.2em;font-weight:900}.counter{font:700 86px/1 Georgia,serif;margin:8px}.counter-sub{color:var(--muted);font-weight:700}.hero-actions{display:flex;justify-content:center;gap:10px;margin-top:20px;flex-wrap:wrap}
+button{border:0;border-radius:13px;padding:12px 16px;font:800 14px inherit;background:var(--cream);color:#161616;cursor:pointer}.secondary,.ghost{background:var(--panel2);color:var(--text);border:1px solid var(--line)}
+.panel{margin-top:18px}.tabpanel{display:none}.tabpanel.active{display:block}.controls{display:grid;grid-template-columns:1fr 210px;gap:10px;margin:18px 0}input,select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:13px;padding:14px;font:inherit}
+.section-heading{display:flex;align-items:end;justify-content:space-between}.section-heading h2,.mode-head h2{font:700 30px Georgia,serif;margin:10px 0}.section-heading span{color:var(--muted);font-size:12px;margin-bottom:12px}.cards{display:grid;gap:13px}.card{background:var(--panel);border:1px solid var(--line);border-radius:17px;padding:17px}
+.meta{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.08em}.card h3{font:700 23px Georgia,serif;margin:8px 0}.card p{line-height:1.48;color:#ddd9d0}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}.chip{font-size:11px;border:1px solid #424248;border-radius:999px;padding:5px 8px;color:#c9c4b8}.source-link{display:inline-block;margin:8px 10px 0 0;color:#fff;text-decoration:underline;text-underline-offset:3px}
+.mode-head{display:flex;gap:18px;align-items:center;background:#67131c;border:1px solid #8b2631;border-radius:19px;padding:18px}.mode-head p{margin:0;color:#e3cdd0}.hat{font-size:54px}.defense-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:14px 0}.defense-grid button{text-align:left;background:#242428;color:#fff;border:1px solid #38383d}
+.receipts-only .satire{display:none}.receipts-only .card h3{font-family:system-ui;font-size:15px}.receipts-only .card h3::before{content:"VERIFIED RECORD";display:block;font-size:10px;letter-spacing:.12em;color:#999;margin-bottom:6px}
+dialog{width:min(92vw,640px);border:1px solid #444;border-radius:20px;background:#151517;color:#fff;padding:24px}dialog::backdrop{background:rgba(0,0,0,.78)}.dialog-close{float:right;background:#29292d;color:white;padding:8px 11px}.buzzer{background:#941925;color:white;margin-top:18px}
+footer{max-width:940px;margin:auto;padding:24px 18px 50px;color:#777;text-align:center;font-size:12px;border-top:1px solid #222}
+@media(max-width:640px){.counter{font-size:66px}.controls,.defense-grid{grid-template-columns:1fr}.meta{flex-direction:column;gap:4px}.mode-head{align-items:flex-start}.topbar{padding:16px}}
+
+.source-count{margin-top:9px;font-size:12px;color:#8f8d88}
+.statusbox{margin-top:14px;padding:13px 15px;border:1px solid #343439;border-radius:14px;background:#141416;color:#aaa;font-size:13px;line-height:1.45}
