@@ -1,3 +1,211 @@
 {
-  "entries": []
+  "lastUpdated": "2026-08-10T15:09:00-07:00",
+  "schemaVersion": 2,
+  "entries": [
+    {
+      "id": 1,
+      "date": "2025-01-20",
+      "type": "policy",
+      "category": "January 6",
+      "satiricalTitle": "Day One: The Clemency Firehose",
+      "summary": "Trump issued sweeping clemency for people charged or convicted in connection with the January 6, 2021 attack on the U.S. Capitol.",
+      "context": "The archive records the action and links the primary presidential action. Individual cases differ, so the app avoids implying identical conduct by every recipient.",
+      "verdict": "verified",
+      "sourceTier": "primary+independent",
+      "tags": [
+        "January 6",
+        "clemency",
+        "day one"
+      ],
+      "sources": [
+        {
+          "label": "White House \u2014 Granting Pardons and Commutation of Sentences for Certain Offenses Relating to the Events at or Near the United States Capitol on January 6, 2021",
+          "url": "https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/"
+        },
+        {
+          "label": "AP \u2014 Trump grants sweeping clemency to Jan. 6 defendants",
+          "url": "https://apnews.com/article/trump-january-6-pardons-8ce8b2a8f8cb602d5eaf85ac7b969606"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2025-04-30",
+      "type": "promise",
+      "category": "Campaign promises",
+      "satiricalTitle": "The First 100 Days: Some Assembly Required",
+      "summary": "Reuters' first-100-days review found a mixed record across major campaign promises, with some fulfilled or advanced and others blocked, delayed or unfulfilled.",
+      "context": "Promise status is not permanently frozen; entries should be updated as outcomes change.",
+      "verdict": "mixed",
+      "sourceTier": "independent",
+      "tags": [
+        "promises",
+        "100 days"
+      ],
+      "sources": [
+        {
+          "label": "Reuters \u2014 Mapping Trump's first 100 days",
+          "url": "https://www.reuters.com/world/us/trump-his-campaign-promises-mapping-his-first-100-days-2025-04-30/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2025-11-26",
+      "type": "policy",
+      "category": "Retribution",
+      "satiricalTitle": "The Retribution Spreadsheet Got Very Long",
+      "summary": "A Reuters investigation documented at least 470 people, institutions and entities targeted in Trump's second-term campaign of retribution as of its publication.",
+      "context": "Reuters' tracker has its own methodology; the Trump File links to that methodology instead of treating every target as an identical event.",
+      "verdict": "verified",
+      "sourceTier": "independent-investigation",
+      "tags": [
+        "retribution",
+        "institutions",
+        "justice"
+      ],
+      "sources": [
+        {
+          "label": "Reuters \u2014 Trump retribution tracker",
+          "url": "https://www.reuters.com/investigates/special-report/usa-trump-retribution-tracker/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2026-01-17",
+      "type": "promise",
+      "category": "Campaign promises",
+      "satiricalTitle": "The Promise Department Would Like a Word",
+      "summary": "AP reviewed several of Trump's more unusual second-term promises one year into the term and tracked where they stood.",
+      "context": "The archive records kept promises as well as failed, stalled or partial ones.",
+      "verdict": "verified",
+      "sourceTier": "independent",
+      "tags": [
+        "promises",
+        "year one"
+      ],
+      "sources": [
+        {
+          "label": "AP \u2014 Where Trump's unusual promises stand",
+          "url": "https://apnews.com/article/trump-promises-second-term-greenland-alcatraz-canada-858c0f1d3ec934dc696a70a5b38eace3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2026-02-24",
+      "type": "promise",
+      "category": "Economy",
+      "satiricalTitle": "Economic Promises Meet the Results Column",
+      "summary": "Reuters found Trump's economic agenda had delivered on some campaign promises while missing others more than a year into the second term.",
+      "context": "The assessment includes favorable and unfavorable outcomes rather than classifying the entire economy with one label.",
+      "verdict": "mixed",
+      "sourceTier": "independent",
+      "tags": [
+        "economy",
+        "jobs",
+        "tariffs",
+        "prices"
+      ],
+      "sources": [
+        {
+          "label": "Reuters \u2014 Economic agenda: some promises delivered, others missed",
+          "url": "https://www.reuters.com/markets/wealth/trumps-economic-agenda-has-delivered-some-promises-missed-others-2026-02-24/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2026-08-04",
+      "type": "contradiction",
+      "category": "Free speech",
+      "satiricalTitle": "Free Speech, Terms and Conditions Apply",
+      "summary": "Reuters identified 75 federal court rulings finding second-term Trump administration actions violated First Amendment rights, while noting that some decisions were later overturned on appeal.",
+      "context": "The app preserves appellate status and does not present every trial-court ruling as final.",
+      "verdict": "verified",
+      "sourceTier": "independent-investigation",
+      "tags": [
+        "free speech",
+        "courts",
+        "Trump vs Trump"
+      ],
+      "sources": [
+        {
+          "label": "Reuters \u2014 75 First Amendment rulings",
+          "url": "https://www.reuters.com/legal/government/trump-vowed-bring-free-speech-back-judges-75-cases-ruled-that-he-has-stifled-it-2026-08-04/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2026-08-06",
+      "type": "policy",
+      "category": "Citizenship",
+      "satiricalTitle": "Birthright Citizenship: The Sequel",
+      "summary": "Trump signed two executive orders aimed at restricting birthright citizenship after earlier legal setbacks.",
+      "context": "Court challenges remain material to the status, so this entry should update as litigation develops.",
+      "verdict": "verified",
+      "sourceTier": "primary+independent",
+      "tags": [
+        "birthright citizenship",
+        "immigration",
+        "courts"
+      ],
+      "sources": [
+        {
+          "label": "White House \u2014 Ending Birth Tourism",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/"
+        },
+        {
+          "label": "White House \u2014 Continuing to Protect the Meaning and Value of American Citizenship",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2026-08-10",
+      "type": "policy",
+      "category": "Health",
+      "satiricalTitle": "The Childhood Schedule Gets an Executive Rewrite",
+      "summary": "Trump signed an executive order directing federal health officials toward a revised childhood vaccination framework.",
+      "context": "This card records the executive action. Scientific and medical assessments belong in separately sourced context rather than being inferred from the order.",
+      "verdict": "verified",
+      "sourceTier": "primary",
+      "tags": [
+        "vaccines",
+        "health",
+        "executive order"
+      ],
+      "sources": [
+        {
+          "label": "White House \u2014 Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2026-08-10",
+      "type": "source",
+      "category": "Archive infrastructure",
+      "satiricalTitle": "The Government Has Receipts Too",
+      "summary": "The Federal Register lists 271 Trump executive orders across the second term so far: 225 in 2025 and 46 in 2026.",
+      "context": "This is a source-system entry, not a negative incident. Presidential documents can seed the candidate queue without being automatically labeled foolish or false.",
+      "verdict": "verified",
+      "sourceTier": "primary",
+      "tags": [
+        "Federal Register",
+        "executive orders",
+        "primary source"
+      ],
+      "sources": [
+        {
+          "label": "Federal Register \u2014 Executive Orders",
+          "url": "https://www.federalregister.gov/presidential-documents/executive-orders"
+        }
+      ]
+    }
+  ]
 }
