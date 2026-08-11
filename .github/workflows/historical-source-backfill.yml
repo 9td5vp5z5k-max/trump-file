@@ -1,0 +1,240 @@
+name: Historical Source Backfill
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build-source-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out Trump File
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build primary-source archive
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import time
+          import html as htmlmod
+          import urllib.parse
+          import urllib.request
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          ROOT = Path(".")
+          DATA = ROOT / "data"
+          DATA.mkdir(exist_ok=True)
+          SOURCE_PATH = DATA / "source_archive.json"
+          CANDIDATES_PATH = DATA / "candidates.json"
+
+          HEADERS = {
+              "User-Agent": "TrumpFileArchive/1.0 (public research archive; GitHub Actions)"
+          }
+
+          def fetch(url, timeout=40):
+              req = urllib.request.Request(url, headers=HEADERS)
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read().decode("utf-8", "replace")
+
+          def load_json(path, default):
+              try:
+                  return json.loads(path.read_text(encoding="utf-8"))
+              except Exception:
+                  return default
+
+          records = {}
+          errors = []
+
+          # 1. FEDERAL REGISTER
+          try:
+              params = [
+                  ("per_page", "1000"),
+                  ("order", "oldest"),
+                  ("conditions[type][]", "PRESDOCU"),
+                  ("conditions[president]", "donald-trump"),
+                  ("conditions[signing_date][gte]", "01/20/2025"),
+                  ("fields[]", "document_number"),
+                  ("fields[]", "title"),
+                  ("fields[]", "type"),
+                  ("fields[]", "subtype"),
+                  ("fields[]", "publication_date"),
+                  ("fields[]", "signing_date"),
+                  ("fields[]", "html_url"),
+                  ("fields[]", "executive_order_number"),
+                  ("fields[]", "proclamation_number"),
+              ]
+              url = "https://www.federalregister.gov/api/v1/documents.json?" + urllib.parse.urlencode(params)
+              payload = json.loads(fetch(url))
+
+              for d in payload.get("results", []):
+                  key = "fr:" + str(d.get("document_number") or d.get("html_url") or "")
+                  if key == "fr:":
+                      continue
+                  records[key] = {
+                      "key": key,
+                      "date": d.get("signing_date") or d.get("publication_date"),
+                      "publicationDate": d.get("publication_date"),
+                      "title": d.get("title") or "Untitled presidential document",
+                      "url": d.get("html_url"),
+                      "source": "Federal Register",
+                      "sourceTier": "primary",
+                      "kind": (d.get("subtype") or d.get("type") or "presidential_document").lower().replace(" ", "_"),
+                      "documentNumber": d.get("document_number"),
+                      "executiveOrderNumber": d.get("executive_order_number"),
+                      "proclamationNumber": d.get("proclamation_number"),
+                  }
+          except Exception as e:
+              errors.append("Federal Register: " + repr(e))
+
+          # 2. WHITE HOUSE PRESIDENTIAL ACTIONS
+          try:
+              base = "https://www.whitehouse.gov/presidential-actions/"
+              seen_empty = 0
+              for page in range(1, 80):
+                  url = base if page == 1 else f"{base}page/{page}/"
+                  try:
+                      text = fetch(url)
+                  except Exception:
+                      if page > 3:
+                          break
+                      continue
+
+                  links = re.findall(
+                      r'href=["\'](https://www\.whitehouse\.gov/presidential-actions/(?:2025|2026)/[^"\']+/?)["\']',
+                      text,
+                      flags=re.I,
+                  )
+                  links = list(dict.fromkeys(links))
+
+                  if not links:
+                      seen_empty += 1
+                      if seen_empty >= 2:
+                          break
+                  else:
+                      seen_empty = 0
+
+                  for link in links:
+                      key = "wh:" + link.rstrip("/")
+                      if key in records:
+                          continue
+
+                      slug = link.rstrip("/").split("/")[-1]
+                      title = htmlmod.unescape(slug.replace("-", " ").strip().title())
+
+                      escaped = re.escape(link.rstrip("/"))
+                      m = re.search(
+                          r'<a[^>]+href=["\']' + escaped + r'/?["\'][^>]*>(.*?)</a>',
+                          text,
+                          flags=re.I | re.S,
+                      )
+                      if m:
+                          candidate = re.sub(r"<[^>]+>", " ", m.group(1))
+                          candidate = htmlmod.unescape(re.sub(r"\s+", " ", candidate)).strip()
+                          if candidate:
+                              title = candidate[:500]
+
+                      dm = re.search(r"/(2025|2026)/(\d{2})/", link)
+                      approx_date = f"{dm.group(1)}-{dm.group(2)}-01" if dm else None
+
+                      records[key] = {
+                          "key": key,
+                          "date": approx_date,
+                          "title": title,
+                          "url": link,
+                          "source": "White House Presidential Actions",
+                          "sourceTier": "primary",
+                          "kind": "presidential_action",
+                          "datePrecision": "month" if approx_date else "unknown",
+                      }
+
+                  time.sleep(0.08)
+          except Exception as e:
+              errors.append("White House: " + repr(e))
+
+          now = datetime.now(timezone.utc).isoformat()
+          ordered = sorted(
+              records.values(),
+              key=lambda r: ((r.get("date") or ""), (r.get("title") or "")),
+          )
+
+          source_archive = {
+              "generatedAt": now,
+              "count": len(ordered),
+              "records": ordered,
+              "errors": errors,
+              "note": (
+                  "Machine-indexed primary-source research corpus. "
+                  "A source record is not automatically a verified Trump File incident."
+              ),
+          }
+          SOURCE_PATH.write_text(
+              json.dumps(source_archive, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+
+          candidate_state = load_json(
+              CANDIDATES_PATH,
+              {"lastDiscoveryRun": None, "candidates": []},
+          )
+          existing = {
+              c.get("key")
+              for c in candidate_state.get("candidates", [])
+              if c.get("key")
+          }
+
+          new_items = []
+          for r in ordered:
+              if r["key"] in existing:
+                  continue
+              new_items.append({
+                  **r,
+                  "status": "candidate",
+                  "editorialNote": (
+                      "Primary source discovered automatically. "
+                      "Review relevance, context, and corroboration before publishing "
+                      "as a verified/satirical archive entry."
+                  ),
+              })
+
+          candidate_state.setdefault("candidates", []).extend(new_items)
+          candidate_state["lastDiscoveryRun"] = now
+          candidate_state["sourceArchiveCount"] = len(ordered)
+          candidate_state["newCandidatesThisRun"] = len(new_items)
+          candidate_state["lastErrors"] = errors
+
+          CANDIDATES_PATH.write_text(
+              json.dumps(candidate_state, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+
+          print(f"Primary-source records indexed: {len(ordered)}")
+          print(f"New review candidates: {len(new_items)}")
+          print("Errors:", errors or "none")
+          PY
+
+      - name: Commit archive updates
+        shell: bash
+        run: |
+          git config user.name "trump-file-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/source_archive.json data/candidates.json
+          if git diff --cached --quiet; then
+            echo "No archive changes to commit."
+          else
+            git commit -m "Update Trump File primary-source archive"
+            git push
+          fi
