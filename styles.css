@@ -19,3 +19,31 @@ footer{max-width:940px;margin:auto;padding:24px 18px 50px;color:#777;text-align:
 
 .source-count{margin-top:9px;font-size:12px;color:#8f8d88}
 .statusbox{margin-top:14px;padding:13px 15px;border:1px solid #343439;border-radius:14px;background:#141416;color:#aaa;font-size:13px;line-height:1.45}
+
+/* v0.5 — red campaign hat + immediate Defense Mode feedback */
+.hat-svg{display:block;width:100%;height:auto;overflow:visible}
+.hat-crown,.hat-bill{fill:#c8202f;stroke:#7e101a;stroke-width:3;stroke-linejoin:round}
+.hat-panel{fill:none;stroke:#e54a56;stroke-width:2.2;stroke-linecap:round;opacity:.78}
+.hat-text{fill:#fff8ea;font:900 13px ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:1.2px}
+.hat{display:block;width:92px;min-width:92px;filter:drop-shadow(0 7px 9px rgba(0,0,0,.3))}
+.mini-hat{display:inline-block;width:27px;vertical-align:-8px;margin-right:4px}
+.defense-tab{display:flex;align-items:center}
+.mode-head{background:linear-gradient(145deg,#74121c,#541016)}
+.defense-results{scroll-margin-top:76px;margin:14px 0 4px}
+.defense-answer{background:#111113;border:2px solid #a2212e;border-radius:19px;padding:18px;box-shadow:0 10px 34px rgba(0,0,0,.25)}
+.defense-answer h3{font:700 28px Georgia,serif;margin:5px 0}
+.answer-top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start}
+.answer-count{display:flex;align-items:center;justify-content:center;min-width:44px;height:44px;padding:0 11px;border-radius:999px;background:#8e1722;color:white;font-weight:900;font-size:18px}
+.answer-records{display:grid;gap:12px;margin-top:16px}
+.defense-choice{position:relative;padding-right:46px;min-height:76px;transition:transform .12s ease,border-color .12s ease,background .12s ease}
+.defense-choice:active{transform:scale(.985)}
+.defense-choice.selected{background:#35181c;border-color:#b52a37;box-shadow:inset 4px 0 0 #cf2635}
+.choice-arrow{position:absolute;right:17px;top:50%;transform:translateY(-50%);font-size:30px;color:#aaa}
+.defense-results.flash{animation:defenseFlash .48s ease-out}
+@keyframes defenseFlash{0%{transform:scale(.985);opacity:.55}100%{transform:scale(1);opacity:1}}
+@media(max-width:640px){
+ .hat{width:78px;min-width:78px}
+ .mode-head{gap:12px}
+ .defense-answer{padding:15px}
+ .defense-answer h3{font-size:25px}
+}

@@ -36,18 +36,46 @@ const defenses=[
 ["Biden did the same thing.","all","Comparable claims need a separately sourced comparison"]
 ];
 function renderDefenseButtons(){
- $("#defenseButtons").innerHTML=defenses.map((d,i)=>`<button data-defense="${i}">${d[0]}<br><small>${d[2]}</small></button>`).join("");
- $$("[data-defense]").forEach(b=>b.onclick=()=>runDefense(+b.dataset.defense))
+ $("#defenseButtons").innerHTML=defenses.map((d,i)=>`<button class="defense-choice" data-defense="${i}" aria-controls="defenseResults">${d[0]}<br><small>${d[2]}</small><span class="choice-arrow">›</span></button>`).join("");
+ $$("[data-defense]").forEach(b=>b.addEventListener("click",()=>runDefense(+b.dataset.defense,b)));
 }
-function runDefense(i){
+function runDefense(i,button){
  const [label,type]=defenses[i];let pool;
  if(type==="all")pool=archive.entries;
- else if(type==="primary")pool=archive.entries.filter(e=>e.sourceTier.includes("primary"));
+ else if(type==="primary")pool=archive.entries.filter(e=>(e.sourceTier||"").includes("primary"));
  else pool=archive.entries.filter(e=>e.type===type);
- $("#defenseResults").innerHTML=`<div class="card"><div class="eyebrow">REALITY CHECK</div><h3>${label}</h3><p>${pool.length?`Found ${pool.length} relevant sourced ${pool.length===1?"record":"records"} in the current archive.`:"No matching verified record yet. The app should say that instead of manufacturing a rebuttal."}</p>${pool.length?'<button class="buzzer" id="buzz">🔊 BZZZZZT</button>':""}</div>`+sorted(pool).slice(0,10).map(card).join("");
- if($("#buzz"))$("#buzz").onclick=sound;
+
+ $$(".defense-choice").forEach(b=>b.classList.toggle("selected",b===button));
+
+ const countText=pool.length
+   ? `Found ${pool.length} relevant sourced ${pool.length===1?"record":"records"} in the current archive.`
+   : "No matching verified record yet. The app should say that instead of manufacturing a rebuttal.";
+
+ $("#defenseResults").innerHTML=`<section class="defense-answer">
+   <div class="answer-top"><div><div class="eyebrow">REALITY CHECK</div><h3>${label}</h3></div>
+   <span class="answer-count">${pool.length}</span></div>
+   <p>${countText}</p>
+   ${pool.length?'<button class="buzzer" id="buzz">🔊 Play wrong-answer buzzer</button>':""}
+   <div class="answer-records">${sorted(pool).slice(0,10).map(card).join("")}</div>
+ </section>`;
+
+ const buzz=$("#buzz"); if(buzz)buzz.addEventListener("click",sound);
+
+ // Make the tap visibly do something on mobile.
+ requestAnimationFrame(()=>{
+   const result=$("#defenseResults");
+   result.classList.remove("flash");
+   void result.offsetWidth;
+   result.classList.add("flash");
+   result.scrollIntoView({behavior:"smooth",block:"start"});
+ });
 }
-function switchTab(id){$$(".tabpanel").forEach(x=>x.classList.toggle("active",x.id===id));$$(".tabs button").forEach(x=>x.classList.toggle("active",x.dataset.tab===id));window.scrollTo({top:0,behavior:"smooth"})}
+function switchTab(id){
+ $$(".tabpanel").forEach(x=>x.classList.toggle("active",x.id===id));
+ $$(".tabs button").forEach(x=>x.classList.toggle("active",x.dataset.tab===id));
+ const panel=$("#"+id);
+ if(panel)panel.scrollIntoView({behavior:"smooth",block:"start"});
+}
 async function boot(){
  archive=await fetch("data/entries.json",{cache:"no-store"}).then(r=>r.json()); try{sourceArchive=await fetch("data/source_archive.json",{cache:"no-store"}).then(r=>r.json())}catch(e){} render();renderDefenseButtons();
  if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js")

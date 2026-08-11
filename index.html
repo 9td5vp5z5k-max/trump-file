@@ -3,7 +3,12 @@
 <meta name="theme-color" content="#101010"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css">
 <title>Trump File</title></head><body>
 <header class="topbar"><div><div class="eyebrow">THE SECOND-TERM ARCHIVE</div><h1>TRUMP FILE</h1><div class="tagline">We provide the receipts. You provide the reaction.</div></div><button id="installBtn" class="ghost" hidden>Install</button></header>
-<nav class="tabs"><button data-tab="latest" class="active">Latest</button><button data-tab="defense">🧢 Defense Mode</button><button data-tab="promises">Promises</button><button data-tab="vs">Trump vs. Trump</button></nav>
+<nav class="tabs"><button data-tab="latest" class="active">Latest</button><button data-tab="defense" class="defense-tab"><span class="mini-hat"><svg class="hat-svg" viewBox="0 0 120 82" role="img" aria-label="Red campaign hat">
+<path class="hat-crown" d="M22 49c0-23 16-39 39-39 22 0 37 12 40 33l2 13H24l-2-7Z"/>
+<path class="hat-panel" d="M60 12v42M34 20c12 5 20 15 23 31M87 20c-12 5-20 15-23 31"/>
+<path class="hat-bill" d="M46 54c27-4 51 0 69 11-20 5-48 7-76 1-8-2-11-6-7-9 3-2 8-3 14-3Z"/>
+<text x="61" y="39" text-anchor="middle" class="hat-text">MAGA</text>
+</svg></span> Defense Mode</button><button data-tab="promises">Promises</button><button data-tab="vs">Trump vs. Trump</button></nav>
 <main>
 <section class="hero"><div class="counter-label">VERIFIED ARCHIVE ENTRIES</div><div id="counter" class="counter">—</div>
 <div class="counter-sub"><span id="todayCount">0</span> today · <span id="weekCount">0</span> last 7 days · <span id="monthCount">0</span> last 30 days</div><div class="source-count"><span id="sourceCount">0</span> primary-source records indexed</div>
@@ -14,8 +19,13 @@
 <div class="section-heading"><h2>Latest</h2><span id="updated"></span></div><div id="cards" class="cards"></div></section>
 
 <section id="defense" class="panel tabpanel">
-<div class="mode-head"><span class="hat">🧢</span><div><div class="eyebrow">TRUMP DEFENSE MODE</div><h2>Heard a familiar defense?</h2><p>Pick the argument. We pull the receipts. If the defense is supported, the app says so.</p></div></div>
-<div id="defenseButtons" class="defense-grid"></div><div id="defenseResults" class="cards"></div></section>
+<div class="mode-head"><span class="hat"><svg class="hat-svg" viewBox="0 0 120 82" role="img" aria-label="Red campaign hat">
+<path class="hat-crown" d="M22 49c0-23 16-39 39-39 22 0 37 12 40 33l2 13H24l-2-7Z"/>
+<path class="hat-panel" d="M60 12v42M34 20c12 5 20 15 23 31M87 20c-12 5-20 15-23 31"/>
+<path class="hat-bill" d="M46 54c27-4 51 0 69 11-20 5-48 7-76 1-8-2-11-6-7-9 3-2 8-3 14-3Z"/>
+<text x="61" y="39" text-anchor="middle" class="hat-text">MAGA</text>
+</svg></span><div><div class="eyebrow">TRUMP DEFENSE MODE</div><h2>Heard a familiar defense?</h2><p>Pick the argument. We pull the receipts. If the defense is supported, the app says so.</p></div></div>
+<div id="defenseResults" class="defense-results" aria-live="polite"></div><div id="defenseButtons" class="defense-grid"></div></section>
 
 <section id="promises" class="panel tabpanel"><div class="section-heading"><h2>Campaign Promise Reality Check</h2></div><p class="lede">Kept, broken, partial, stalled and pending belong in the same database.</p><div id="promiseCards" class="cards"></div></section>
 
