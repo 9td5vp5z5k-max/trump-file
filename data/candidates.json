@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-11T16:15:57.837064+00:00",
+  "lastDiscoveryRun": "2026-08-12T16:31:25.413767+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16244,7 +16244,7 @@
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1203,
-  "newCandidatesThisRun": 1073,
+  "sourceArchiveCount": 722,
+  "newCandidatesThisRun": 0,
   "lastErrors": []
 }
