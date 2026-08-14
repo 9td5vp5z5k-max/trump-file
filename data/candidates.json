@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-13T16:15:11.392005+00:00",
+  "lastDiscoveryRun": "2026-08-14T16:09:14.734188+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16266,9 +16266,63 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states",
+      "date": "2026-08-01",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
+      "date": "2026-08-01",
+      "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-16730",
+      "date": "2026-08-10",
+      "publicationDate": "2026-08-14",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16730/delivering-gold-standard-childhood-vaccine-recommendations-for-americans",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-16730",
+      "executiveOrderNumber": "14420",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-16748",
+      "date": "2026-08-12",
+      "publicationDate": "2026-08-14",
+      "title": "Continuation of the National Emergency With Respect to Export Control Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16748/continuation-of-the-national-emergency-with-respect-to-export-control-regulations",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-16748",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1205,
-  "newCandidatesThisRun": 2,
+  "sourceArchiveCount": 1209,
+  "newCandidatesThisRun": 4,
   "lastErrors": []
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13T16:15:11.392005+00:00",
-  "count": 1205,
+  "generatedAt": "2026-08-14T16:09:14.734188+00:00",
+  "count": 1209,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -13688,6 +13688,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states",
+      "date": "2026-08-01",
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship",
       "date": "2026-08-01",
       "title": "Continuing to Protect the Meaning and Value of American Citizenship",
@@ -13762,6 +13772,16 @@
       "date": "2026-08-01",
       "title": "Nominations Sent to the Senate",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
+      "date": "2026-08-01",
+      "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -13857,6 +13877,32 @@
       "documentNumber": "2026-16401",
       "executiveOrderNumber": null,
       "proclamationNumber": "11053"
+    },
+    {
+      "key": "fr:2026-16730",
+      "date": "2026-08-10",
+      "publicationDate": "2026-08-14",
+      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16730/delivering-gold-standard-childhood-vaccine-recommendations-for-americans",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-16730",
+      "executiveOrderNumber": "14420",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-16748",
+      "date": "2026-08-12",
+      "publicationDate": "2026-08-14",
+      "title": "Continuation of the National Emergency With Respect to Export Control Regulations",
+      "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16748/continuation-of-the-national-emergency-with-respect-to-export-control-regulations",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-16748",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
