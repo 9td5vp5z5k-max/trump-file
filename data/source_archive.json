@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-14T16:09:14.734188+00:00",
-  "count": 1209,
+  "generatedAt": "2026-08-15T13:59:16.937816+00:00",
+  "count": 1210,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -13903,6 +13903,19 @@
       "documentNumber": "2026-16748",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-16799",
+      "date": "2026-08-12",
+      "publicationDate": "2026-08-17",
+      "title": "National Substance Use Primary Prevention Month, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16799/national-substance-use-primary-prevention-month-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-16799",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11054"
     }
   ],
   "errors": [],
