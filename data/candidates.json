@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-20T15:08:13.961522+00:00",
+  "lastDiscoveryRun": "2026-08-21T15:05:57.136827+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16362,9 +16362,21 @@
       "proclamationNumber": "11055",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17",
+      "date": "2026-08-01",
+      "title": "The National Space Transportation Policy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1212,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1213,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }
