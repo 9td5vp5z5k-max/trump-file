@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T15:05:57.136827+00:00",
-  "count": 1213,
+  "generatedAt": "2026-08-22T13:58:56.272578+00:00",
+  "count": 1214,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -13949,6 +13949,19 @@
       "documentNumber": "2026-16979",
       "executiveOrderNumber": null,
       "proclamationNumber": "11055"
+    },
+    {
+      "key": "fr:2026-17294",
+      "date": "2026-08-18",
+      "publicationDate": "2026-08-24",
+      "title": "Temporary Suspension of Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
+      "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17294/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-17294",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11056"
     }
   ],
   "errors": [],
