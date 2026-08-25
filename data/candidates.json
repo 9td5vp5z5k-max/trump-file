@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-24T15:24:28.511139+00:00",
+  "lastDiscoveryRun": "2026-08-25T15:29:38.731884+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16389,9 +16389,24 @@
       "proclamationNumber": "11056",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-17374",
+      "date": "2026-08-20",
+      "publicationDate": "2026-08-25",
+      "title": "Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act",
+      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17374/continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-17374",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1177,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1215,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }

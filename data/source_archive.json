@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T15:24:28.511139+00:00",
-  "count": 1177,
+  "generatedAt": "2026-08-25T15:29:38.731884+00:00",
+  "count": 1215,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -23,6 +23,26 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy",
+      "date": "2025-01-01",
+      "title": "America First Trade Policy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/america-first-trade-policy/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/application-of-protecting-americans-from-foreign-adversary-controlled-applications-act-to-tiktok",
+      "date": "2025-01-01",
+      "title": "Application Of Protecting Americans From Foreign Adversary Controlled Applications Act To TikTok",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/application-of-protecting-americans-from-foreign-adversary-controlled-applications-act-to-tiktok/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/celebrating-americas-250th-birthday",
       "date": "2025-01-01",
       "title": "Celebrating America’s 250th Birthday",
@@ -33,10 +53,40 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states",
+      "date": "2025-01-01",
+      "title": "Clarifying The Military’s Role In Protecting The Territorial Integrity Of The United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/clarifying-the-militarys-role-in-protecting-the-territorial-integrity-of-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency",
       "date": "2025-01-01",
       "title": "Council to Assess the Federal Emergency Management Agency",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/council-to-assess-the-federal-emergency-management-agency/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states",
+      "date": "2025-01-01",
+      "title": "Declaring A National Emergency At The Southern Border Of The United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency",
+      "date": "2025-01-01",
+      "title": "Declaring a National Energy Emergency",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -57,6 +107,16 @@
       "date": "2025-01-01",
       "title": "Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis",
+      "date": "2025-01-01",
+      "title": "Delivering Emergency Price Relief for American Families and Defeating the Cost-of-Living Crisis",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/delivering-emergency-price-relief-for-american-families-and-defeating-the-cost-of-living-crisis/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -117,6 +177,16 @@
       "date": "2025-01-01",
       "title": "Ending Radical Indoctrination in K-12 Schooling",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-indoctrination-in-k-12-schooling/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government",
+      "date": "2025-01-01",
+      "title": "Ending The Weaponization Of The Federal Government",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/ending-the-weaponization-of-the-federal-government/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -193,6 +263,26 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day",
+      "date": "2025-01-01",
+      "title": "Flying The Flag Of The United States At Full-Staff On Inauguration Day",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/flying-the-flag-of-the-united-states-at-full-staff-on-inauguration-day/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021",
+      "date": "2025-01-01",
+      "title": "Granting Pardons And Commutation Of Sentences For Certain Offenses Relating To The Events At Or Near The United States Capitol On January 6, 2021",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/guaranteeing-the-states-protection-against-invasion",
       "date": "2025-01-01",
       "title": "Guaranteeing The States Protection Against Invasion",
@@ -203,10 +293,40 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze",
+      "date": "2025-01-01",
+      "title": "Hiring Freeze",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/hiring-freeze/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information",
+      "date": "2025-01-01",
+      "title": "Holding Former Government Officials Accountable For Election Interference And Improper Disclosure Of Sensitive Governmental Information",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/holding-former-government-officials-accountablefor-election-interference-and-improper-disclosure-of-sensitive-governmental-information/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/immediate-assessment-of-aviation-safety",
       "date": "2025-01-01",
       "title": "Immediate Assessment of Aviation Safety",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/immediate-assessment-of-aviation-safety/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions",
+      "date": "2025-01-01",
+      "title": "Initial Rescissions Of Harmful Executive Orders And Actions",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -243,6 +363,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-to-resolve-the-backlog-of-security-clearances-for-executive-office-of-the-president-personnel",
+      "date": "2025-01-01",
+      "title": "Memorandum to Resolve the Backlog of Security Clearances for Executive Office of the President Personnel",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/memorandum-to-resolve-the-backlog-of-security-clearances-for-executive-office-of-the-president-personnel/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/nominations-transmitted-to-the-senate",
       "date": "2025-01-01",
       "title": "Nominations Transmitted to the Senate",
@@ -253,10 +383,60 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees",
+      "date": "2025-01-01",
+      "title": "Organization of the National Security Council and Subcommittees",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/organization-of-the-national-security-council-and-subcommittees/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/president-donald-j-trump-signed-s-5-into-law",
       "date": "2025-01-01",
       "title": "President Donald J. Trump Signed S.5 into Law",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/president-donald-j-trump-signed-s-5-into-law/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders",
+      "date": "2025-01-01",
+      "title": "President Trump Announces Acting Cabinet and Cabinet-Level Positions",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments",
+      "date": "2025-01-01",
+      "title": "President Trump Announces Cabinet and Cabinet Level Appointments",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/cabinet-and-cabinet-level-appointments/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments",
+      "date": "2025-01-01",
+      "title": "President Trump Announces Sub-Cabinet Appointments",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/sub-cabinet-appointments/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen",
+      "date": "2025-01-01",
+      "title": "President Trump Designates Chairmen and Acting Chairmen",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-chairmen-and-acting-chairmen/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -283,6 +463,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture",
+      "date": "2025-01-01",
+      "title": "Promoting Beautiful Federal Civic Architecture",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/promoting-beautiful-federal-civic-architecture/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/protecting-children-from-chemical-and-surgical-mutilation",
       "date": "2025-01-01",
       "title": "Protecting Children from Chemical and Surgical Mutilation",
@@ -293,10 +483,90 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion",
+      "date": "2025-01-01",
+      "title": "Protecting The American People Against Invasion",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-american-people-against-invasion/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship",
+      "date": "2025-01-01",
+      "title": "Protecting The Meaning And Value Of American Citizenship",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats",
+      "date": "2025-01-01",
+      "title": "Protecting The United States From Foreign Terrorists And Other National Security And Public Safety Threats",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-united-states-from-foreign-terrorists-and-othernational-security-and-public-safety-threats/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements",
+      "date": "2025-01-01",
+      "title": "Putting America First In International Environmental Agreements",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-america-first-in-international-environmental-agreements/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california",
+      "date": "2025-01-01",
+      "title": "Putting People Over Fish: Stopping Radical Environmentalism to Provide Water to Southern California",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/putting-people-over-fish-stopping-radical-environmentalism-to-provide-water-to-southern-california/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program",
+      "date": "2025-01-01",
+      "title": "Realigning the United States Refugee Admissions Program",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/realigning-the-united-states-refugee-admissions-program/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid",
+      "date": "2025-01-01",
+      "title": "Reevaluating And Realigning United States Foreign Aid",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service",
       "date": "2025-01-01",
       "title": "Reforming The Federal Hiring Process And Restoring Merit To Government Service",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/reforming-the-federal-hiring-process-and-restoring-merit-to-government-service/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review",
+      "date": "2025-01-01",
+      "title": "Regulatory Freeze Pending Review",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/regulatory-freeze-pending-review/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -323,10 +593,40 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce",
+      "date": "2025-01-01",
+      "title": "Restoring Accountability To Policy-Influencing Positions Within the Federal Workforce",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-for-career-senior-executives",
+      "date": "2025-01-01",
+      "title": "Restoring Accountability for Career Senior Executives",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-for-career-senior-executives/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/restoring-americas-fighting-force",
       "date": "2025-01-01",
       "title": "Restoring America’s Fighting Force",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-americas-fighting-force/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship",
+      "date": "2025-01-01",
+      "title": "Restoring Freedom Of Speech And Ending Federal Censorship",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-freedom-of-speech-and-ending-federal-censorship/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -343,10 +643,50 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety",
+      "date": "2025-01-01",
+      "title": "Restoring The Death Penalty And Protecting Public Safety",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/restoring-the-death-penalty-and-protecting-public-safety/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work",
+      "date": "2025-01-01",
+      "title": "Return to In-Person Work",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/return-to-in-person-work/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders",
+      "date": "2025-01-01",
+      "title": "Securing Our Borders",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/securing-our-borders/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology",
       "date": "2025-01-01",
       "title": "Strengthening American Leadership in Digital Financial Technology",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects",
+      "date": "2025-01-01",
+      "title": "Temporary Withdrawal of All Areas on the Outer Continental Shelf from Offshore Wind Leasing and Review of the Federal Government’s Leasing and Permitting Practices for Wind Projects",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/temporary-withdrawal-of-all-areas-on-the-outer-continental-shelf-from-offshore-wind-leasing-and-review-of-the-federal-governments-leasing-and-permitting-practices-for-wind-projects/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -383,10 +723,40 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal",
+      "date": "2025-01-01",
+      "title": "The Organization for Economic Co-operation and Development (OECD) Global Tax Deal (Global Tax Deal)",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/the-organization-for-economic-co-operation-and-development-oecd-global-tax-deal-global-tax-deal/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential",
+      "date": "2025-01-01",
+      "title": "Unleashing Alaska’s Extraordinary Resource Potential",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-alaskas-extraordinary-resource-potential/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-prosperity-through-deregulation",
       "date": "2025-01-01",
       "title": "Unleashing Prosperity Through Deregulation",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-prosperity-through-deregulation/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization",
+      "date": "2025-01-01",
+      "title": "Withdrawing The United States From The World Health Organization",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -13592,6 +13962,19 @@
       "documentNumber": "2026-17294",
       "executiveOrderNumber": null,
       "proclamationNumber": "11056"
+    },
+    {
+      "key": "fr:2026-17374",
+      "date": "2026-08-20",
+      "publicationDate": "2026-08-25",
+      "title": "Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act",
+      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17374/continuation-of-the-exercise-of-certain-authorities-under-the-trading-with-the-enemy-act",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-17374",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
