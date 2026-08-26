@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-25T15:29:38.731884+00:00",
+  "lastDiscoveryRun": "2026-08-26T16:38:35.915522+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16404,9 +16404,51 @@
       "proclamationNumber": null,
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton",
+      "date": "2026-08-01",
+      "title": "Honoring the Memory of Dolly Parton",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-17372",
+      "date": "2026-08-20",
+      "publicationDate": "2026-08-25",
+      "title": "The National Space Transportation Policy",
+      "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17372/the-national-space-transportation-policy",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "other",
+      "documentNumber": "2026-17372",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-17477",
+      "date": "2026-08-21",
+      "publicationDate": "2026-08-26",
+      "title": "Presidential Determination on Provision of Atomic Information to Finland and Sweden",
+      "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17477/presidential-determination-on-provision-of-atomic-information-to-finland-and-sweden",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-17477",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1215,
-  "newCandidatesThisRun": 1,
+  "sourceArchiveCount": 1218,
+  "newCandidatesThisRun": 3,
   "lastErrors": []
 }
