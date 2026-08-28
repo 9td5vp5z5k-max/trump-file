@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-08-26T16:38:35.915522+00:00",
+  "lastDiscoveryRun": "2026-08-28T21:51:06.147808+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16446,9 +16446,84 @@
       "proclamationNumber": null,
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+      "date": "2026-08-01",
+      "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy",
+      "date": "2026-08-01",
+      "title": "Establishing the United States Space Academy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate",
+      "date": "2026-08-01",
+      "title": "Fifth Anniversary of the Attack at Abbey Gate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer",
+      "date": "2026-08-01",
+      "title": "Further Ensuring Affordable Beef for the American Consumer",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36",
+      "date": "2026-08-01",
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-17716",
+      "date": "2026-08-25",
+      "publicationDate": "2026-08-28",
+      "title": "Honoring the Memory of Dolly Parton",
+      "url": "https://www.federalregister.gov/documents/2026/08/28/2026-17716/honoring-the-memory-of-dolly-parton",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-17716",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11057",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1218,
-  "newCandidatesThisRun": 3,
+  "sourceArchiveCount": 1221,
+  "newCandidatesThisRun": 6,
   "lastErrors": []
 }
