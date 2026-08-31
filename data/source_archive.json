@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T13:24:36.040252+00:00",
-  "count": 1228,
+  "generatedAt": "2026-08-31T13:24:47.997551+00:00",
+  "count": 1227,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14102,24 +14102,11 @@
       "proclamationNumber": "11058"
     },
     {
-      "key": "fr:X26-10831",
-      "date": "2026-08-26",
-      "publicationDate": "2026-08-31",
-      "title": "Further Ensuring Affordable Beef for the American Consumer",
-      "url": "https://www.federalregister.gov/documents/2026/08/31/X26-10831/further-ensuring-affordable-beef-for-the-american-consumer",
-      "source": "Federal Register",
-      "sourceTier": "primary",
-      "kind": "proclamation",
-      "documentNumber": "X26-10831",
-      "executiveOrderNumber": null,
-      "proclamationNumber": "11059"
-    },
-    {
       "key": "fr:2026-17842",
       "date": "2026-08-26",
       "publicationDate": "2026-08-31",
-      "title": "[No title available]",
-      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17842/no-title-available",
+      "title": "Further Ensuring Affordable Beef for the American Consumer",
+      "url": "https://www.federalregister.gov/documents/2026/08/31/2026-17842/further-ensuring-affordable-beef-for-the-american-consumer",
       "source": "Federal Register",
       "sourceTier": "primary",
       "kind": "proclamation",
