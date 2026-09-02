@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T13:29:57.578378+00:00",
-  "count": 1227,
+  "generatedAt": "2026-09-02T13:30:34.114369+00:00",
+  "count": 1228,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -11855,16 +11855,6 @@
       "datePrecision": "month"
     },
     {
-      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/04/sequestration-order-for-fiscal-year-2027-pursuant-to-section-251a-of-the-balanced-budgetand-emergency-deficit-control-act-as-amended",
-      "date": "2026-04-01",
-      "title": "SEQUESTRATION ORDER FOR FISCAL YEAR 2027 PURSUANT TO SECTION 251A OF THE BALANCED BUDGET AND EMERGENCY DEFICIT CONTROL ACT, AS AMENDED",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/sequestration-order-for-fiscal-year-2027-pursuant-to-section-251a-of-the-balanced-budgetand-emergency-deficit-control-act-as-amended/",
-      "source": "White House Presidential Actions",
-      "sourceTier": "primary",
-      "kind": "presidential_action",
-      "datePrecision": "month"
-    },
-    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states",
       "date": "2026-04-01",
       "title": "Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper Into the United States",
@@ -14113,6 +14103,32 @@
       "documentNumber": "2026-17842",
       "executiveOrderNumber": null,
       "proclamationNumber": "11059"
+    },
+    {
+      "key": "fr:2026-18020",
+      "date": "2026-08-27",
+      "publicationDate": "2026-09-02",
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-18020/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-18020",
+      "executiveOrderNumber": "14422",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-18046",
+      "date": "2026-08-31",
+      "publicationDate": "2026-09-02",
+      "title": "Continuation of the National Emergency With Respect to Foreign Interference in or Undermining Public Confidence in United States Elections",
+      "url": "https://www.federalregister.gov/documents/2026/09/02/2026-18046/continuation-of-the-national-emergency-with-respect-to-foreign-interference-in-or-undermining-public",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-18046",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
