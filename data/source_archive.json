@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T13:30:18.515922+00:00",
-  "count": 1229,
+  "generatedAt": "2026-09-05T13:26:35.739599+00:00",
+  "count": 1231,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14142,6 +14142,26 @@
       "documentNumber": "2026-18046",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers",
+      "date": "2026-09-01",
+      "title": "Promoting Fair Competition In Livestock Markets And Expanding Market Access for American Meat Producers",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers",
+      "date": "2026-09-01",
+      "title": "Supporting America’s Ranchers",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
     }
   ],
   "errors": [],
