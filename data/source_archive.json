@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T13:32:40.028072+00:00",
-  "count": 1231,
+  "generatedAt": "2026-09-08T13:32:41.182567+00:00",
+  "count": 1232,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14142,6 +14142,16 @@
       "documentNumber": "2026-18046",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026",
+      "date": "2026-09-01",
+      "title": "Labor Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
     },
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat-producers",

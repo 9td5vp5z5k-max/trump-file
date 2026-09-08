@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-07T13:32:40.028072+00:00",
+  "lastDiscoveryRun": "2026-09-08T13:32:41.182567+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16650,9 +16650,21 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026",
+      "date": "2026-09-01",
+      "title": "Labor Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/labor-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1231,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1232,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }
