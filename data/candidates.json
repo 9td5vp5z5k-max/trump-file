@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-09T13:32:59.704513+00:00",
+  "lastDiscoveryRun": "2026-09-10T13:29:56.435434+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16746,9 +16746,81 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks",
+      "date": "2026-09-01",
+      "title": "Patriot Day 2026, The 25th Anniversary of the September 11 Terrorist Attacks",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/patriot-day-2026-the-25th-anniversary-of-the-september-11-terrorist-attacks/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-18573",
+      "date": "2026-09-04",
+      "publicationDate": "2026-09-10",
+      "title": "Labor Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18573/labor-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-18573",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11060",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-18567",
+      "date": "2026-09-04",
+      "publicationDate": "2026-09-10",
+      "title": "Promoting Fair Competition in Livestock Markets and Expanding Market Access for American Meat Producers",
+      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18567/promoting-fair-competition-in-livestock-markets-and-expanding-market-access-for-american-meat",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-18567",
+      "executiveOrderNumber": "14424",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-18571",
+      "date": "2026-09-04",
+      "publicationDate": "2026-09-10",
+      "title": "Supporting America's Ranchers",
+      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18571/supporting-americas-ranchers",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-18571",
+      "executiveOrderNumber": "14425",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-18589",
+      "date": "2026-09-08",
+      "publicationDate": "2026-09-10",
+      "title": "Continuation of the National Emergency With Respect to Certain Terrorist Attacks",
+      "url": "https://www.federalregister.gov/documents/2026/09/10/2026-18589/continuation-of-the-national-emergency-with-respect-to-certain-terrorist-attacks",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-18589",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1239,
-  "newCandidatesThisRun": 7,
+  "sourceArchiveCount": 1244,
+  "newCandidatesThisRun": 5,
   "lastErrors": []
 }
