@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T13:29:56.435434+00:00",
-  "count": 1244,
+  "generatedAt": "2026-09-11T17:02:53.820926+00:00",
+  "count": 1246,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14290,6 +14290,32 @@
       "kind": "executive_order",
       "documentNumber": "2026-18571",
       "executiveOrderNumber": "14425",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-18738",
+      "date": "2026-09-08",
+      "publicationDate": "2026-09-11",
+      "title": "Accelerating Access to Veterans' Benefits and Employment Opportunities",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18738/accelerating-access-to-veterans-benefits-and-employment-opportunities",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-18738",
+      "executiveOrderNumber": "14426",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-18739",
+      "date": "2026-09-08",
+      "publicationDate": "2026-09-11",
+      "title": "Adjusting Certain Delegations Under the Defense Production Act",
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18739/adjusting-certain-delegations-under-the-defense-production-act",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-18739",
+      "executiveOrderNumber": "14427",
       "proclamationNumber": null
     },
     {
