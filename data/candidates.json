@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-15T17:41:44.491235+00:00",
+  "lastDiscoveryRun": "2026-09-16T17:38:49.355307+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -16950,9 +16950,24 @@
       "proclamationNumber": "11066",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-19053",
+      "date": "2026-09-11",
+      "publicationDate": "2026-09-16",
+      "title": "Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism",
+      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19053/continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-19053",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1253,
-  "newCandidatesThisRun": 2,
+  "sourceArchiveCount": 1254,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }

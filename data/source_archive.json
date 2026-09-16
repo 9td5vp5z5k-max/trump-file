@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T17:41:44.491235+00:00",
-  "count": 1253,
+  "generatedAt": "2026-09-16T17:38:49.355307+00:00",
+  "count": 1254,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14418,6 +14418,19 @@
       "documentNumber": "2026-18959",
       "executiveOrderNumber": null,
       "proclamationNumber": "11066"
+    },
+    {
+      "key": "fr:2026-19053",
+      "date": "2026-09-11",
+      "publicationDate": "2026-09-16",
+      "title": "Continuation of the National Emergency With Respect to Persons Who Commit, Threaten To Commit, or Support Terrorism",
+      "url": "https://www.federalregister.gov/documents/2026/09/16/2026-19053/continuation-of-the-national-emergency-with-respect-to-persons-who-commit-threaten-to-commit-or",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-19053",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
