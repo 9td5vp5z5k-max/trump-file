@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T17:38:49.355307+00:00",
-  "count": 1254,
+  "generatedAt": "2026-09-17T17:39:31.067431+00:00",
+  "count": 1258,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -13698,16 +13698,6 @@
       "datePrecision": "month"
     },
     {
-      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
-      "date": "2026-08-01",
-      "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
-      "source": "White House Presidential Actions",
-      "sourceTier": "primary",
-      "kind": "presidential_action",
-      "datePrecision": "month"
-    },
-    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans",
       "date": "2026-08-01",
       "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
@@ -14164,6 +14154,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026",
+      "date": "2026-09-01",
+      "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever",
       "date": "2026-09-01",
       "title": "Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
@@ -14224,6 +14224,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026",
+      "date": "2026-09-01",
+      "title": "National POW/MIA Recognition Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3",
       "date": "2026-09-01",
       "title": "Nominations Sent to the Senate",
@@ -14254,10 +14264,40 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support",
+      "date": "2026-09-01",
+      "title": "Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement",
+      "date": "2026-09-01",
+      "title": "Restoring Reciprocity in Government Procurement",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers",
       "date": "2026-09-01",
       "title": "Supporting America’s Ranchers",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/09/supporting-americas-ranchers/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate",
+      "date": "2026-09-01",
+      "title": "Withdrawals Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
