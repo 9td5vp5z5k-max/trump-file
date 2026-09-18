@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T17:39:31.067431+00:00",
-  "count": 1258,
+  "generatedAt": "2026-09-18T17:06:59.725962+00:00",
+  "count": 1262,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -13698,6 +13698,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system",
+      "date": "2026-08-01",
+      "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans",
       "date": "2026-08-01",
       "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
@@ -14274,6 +14284,26 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation",
+      "date": "2026-09-01",
+      "title": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage",
+      "date": "2026-09-01",
+      "title": "Reinvigorating America’s Hunting Heritage",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement",
       "date": "2026-09-01",
       "title": "Restoring Reciprocity in Government Procurement",
@@ -14469,6 +14499,19 @@
       "sourceTier": "primary",
       "kind": "notice",
       "documentNumber": "2026-19053",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-19251",
+      "date": "2026-09-11",
+      "publicationDate": "2026-09-18",
+      "title": "Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027",
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19251/presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-19251",
       "executiveOrderNumber": null,
       "proclamationNumber": null
     }

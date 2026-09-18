@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-17T17:39:31.067431+00:00",
+  "lastDiscoveryRun": "2026-09-18T17:06:59.725962+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17025,9 +17025,48 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation",
+      "date": "2026-09-01",
+      "title": "RESTORING AMERICAN SALTWATER ANGLING AND RECREATION",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-american-saltwater-angling-and-recreation/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage",
+      "date": "2026-09-01",
+      "title": "Reinvigorating America’s Hunting Heritage",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-19251",
+      "date": "2026-09-11",
+      "publicationDate": "2026-09-18",
+      "title": "Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2027",
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19251/presidential-determination-on-major-drug-transit-or-major-illicit-drug-producing-countries-for",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-19251",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1258,
-  "newCandidatesThisRun": 5,
+  "sourceArchiveCount": 1262,
+  "newCandidatesThisRun": 3,
   "lastErrors": []
 }
