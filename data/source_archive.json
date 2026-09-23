@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T17:39:40.067911+00:00",
-  "count": 1270,
+  "generatedAt": "2026-09-23T17:52:49.755381+00:00",
+  "count": 1272,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14612,6 +14612,32 @@
       "documentNumber": "2026-19417",
       "executiveOrderNumber": "14430",
       "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-19555",
+      "date": "2026-09-18",
+      "publicationDate": "2026-09-23",
+      "title": "Enhancing Program Integrity and Interagency Coordination in the Administration of the H-1B Nonimmigrant Visa Program",
+      "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19555/enhancing-program-integrity-and-interagency-coordination-in-the-administration-of-the-h-1b",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-19555",
+      "executiveOrderNumber": "14431",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-19554",
+      "date": "2026-09-18",
+      "publicationDate": "2026-09-23",
+      "title": "Restriction on Entry of Certain Nonimmigrant Workers",
+      "url": "https://www.federalregister.gov/documents/2026/09/23/2026-19554/restriction-on-entry-of-certain-nonimmigrant-workers",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-19554",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11069"
     }
   ],
   "errors": [],
