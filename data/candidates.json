@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-25T17:59:07.061306+00:00",
+  "lastDiscoveryRun": "2026-09-26T17:14:10.882371+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17208,9 +17208,21 @@
       "proclamationNumber": "11069",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026",
+      "date": "2026-09-01",
+      "title": "Gold Star Mother’s And Family’s Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1272,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1273,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }

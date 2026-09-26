@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-25T17:59:07.061306+00:00",
-  "count": 1272,
+  "generatedAt": "2026-09-26T17:14:10.882371+00:00",
+  "count": 1273,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14208,6 +14208,16 @@
       "date": "2026-09-01",
       "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026",
+      "date": "2026-09-01",
+      "title": "Gold Star Mother’s And Family’s Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
