@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-09-27T17:47:29.725335+00:00",
+  "lastDiscoveryRun": "2026-09-28T20:08:27.691089+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17220,9 +17220,21 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc",
+      "date": "2026-09-01",
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 759,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 679,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }
