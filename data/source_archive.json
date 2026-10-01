@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T18:28:11.404800+00:00",
-  "count": 1277,
+  "generatedAt": "2026-10-01T18:55:13.614561+00:00",
+  "count": 1278,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14688,6 +14688,19 @@
       "documentNumber": "2026-19554",
       "executiveOrderNumber": null,
       "proclamationNumber": "11069"
+    },
+    {
+      "key": "fr:2026-20093",
+      "date": "2026-09-25",
+      "publicationDate": "2026-09-30",
+      "title": "Gold Star Mother's and Family's Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20093/gold-star-mothers-and-familys-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-20093",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11070"
     }
   ],
   "errors": [],
