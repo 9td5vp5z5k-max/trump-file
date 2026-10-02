@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-10-01T18:55:13.614561+00:00",
+  "lastDiscoveryRun": "2026-10-02T18:28:21.306237+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17283,9 +17283,84 @@
       "proclamationNumber": "11070",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20318",
+      "date": "2026-09-25",
+      "publicationDate": "2026-10-02",
+      "title": "Presidential Determination on Refugee Admissions for Fiscal Year 2027",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20318/presidential-determination-on-refugee-admissions-for-fiscal-year-2027",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-20318",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20320",
+      "date": "2026-09-29",
+      "publicationDate": "2026-10-02",
+      "title": "Eliminating Disease-Carrying Pests and Restoring Enjoyment of the Great Outdoors",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20320/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-20320",
+      "executiveOrderNumber": "14433",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20321",
+      "date": "2026-09-29",
+      "publicationDate": "2026-10-02",
+      "title": "Inaugurating the Era of Super Intelligence",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20321/inaugurating-the-era-of-super-intelligence",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-20321",
+      "executiveOrderNumber": "14434",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20319",
+      "date": "2026-09-29",
+      "publicationDate": "2026-10-02",
+      "title": "Streamlining Access to Government Services Through America.gov",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20319/streamlining-access-to-government-services-through-americagov",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-20319",
+      "executiveOrderNumber": "14432",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20322",
+      "date": "2026-09-30",
+      "publicationDate": "2026-10-02",
+      "title": "Continuation of the National Emergency With Respect to the Situation in and in Relation to Syria",
+      "url": "https://www.federalregister.gov/documents/2026/10/02/2026-20322/continuation-of-the-national-emergency-with-respect-to-the-situation-in-and-in-relation-to-syria",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-20322",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1278,
-  "newCandidatesThisRun": 1,
+  "sourceArchiveCount": 1283,
+  "newCandidatesThisRun": 5,
   "lastErrors": []
 }
