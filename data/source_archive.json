@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T18:28:21.306237+00:00",
-  "count": 1283,
+  "generatedAt": "2026-10-03T17:18:55.009128+00:00",
+  "count": 1285,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14766,6 +14766,29 @@
       "documentNumber": "2026-20322",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-20439",
+      "date": "2026-09-30",
+      "publicationDate": "2026-10-05",
+      "title": "Presidential Determination on the Revocation of Presidential Determinations Related to Lebanon",
+      "url": "https://www.federalregister.gov/documents/2026/10/05/2026-20439/presidential-determination-on-the-revocation-of-presidential-determinations-related-to-lebanon",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-20439",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026",
+      "date": "2026-10-01",
+      "title": "National Manufacturing Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
     }
   ],
   "errors": [],
