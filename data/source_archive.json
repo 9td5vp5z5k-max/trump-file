@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T18:56:08.629101+00:00",
-  "count": 1286,
+  "generatedAt": "2026-10-07T19:23:17.473117+00:00",
+  "count": 1287,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14799,6 +14799,19 @@
       "sourceTier": "primary",
       "kind": "presidential_action",
       "datePrecision": "month"
+    },
+    {
+      "key": "fr:2026-20629",
+      "date": "2026-10-02",
+      "publicationDate": "2026-10-07",
+      "title": "National Manufacturing Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20629/national-manufacturing-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-20629",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11071"
     }
   ],
   "errors": [],

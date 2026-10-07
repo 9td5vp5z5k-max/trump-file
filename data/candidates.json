@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-10-06T18:56:08.629101+00:00",
+  "lastDiscoveryRun": "2026-10-07T19:23:17.473117+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17397,9 +17397,24 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20629",
+      "date": "2026-10-02",
+      "publicationDate": "2026-10-07",
+      "title": "National Manufacturing Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/10/07/2026-20629/national-manufacturing-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-20629",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11071",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1286,
+  "sourceArchiveCount": 1287,
   "newCandidatesThisRun": 1,
   "lastErrors": []
 }
