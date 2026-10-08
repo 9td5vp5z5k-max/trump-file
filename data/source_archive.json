@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T19:23:17.473117+00:00",
-  "count": 1287,
+  "generatedAt": "2026-10-08T19:18:30.367283+00:00",
+  "count": 1289,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14781,10 +14781,30 @@
       "proclamationNumber": null
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026",
+      "date": "2026-10-01",
+      "title": "Columbus Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel",
       "date": "2026-10-01",
       "title": "Emergency Tax Relief on Diesel Fuel",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026",
+      "date": "2026-10-01",
+      "title": "National Energy Dominance Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
