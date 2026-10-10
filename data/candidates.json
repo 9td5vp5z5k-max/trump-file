@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-10-09T18:51:09.174222+00:00",
+  "lastDiscoveryRun": "2026-10-10T17:53:47.524482+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17463,9 +17463,39 @@
       "proclamationNumber": null,
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20972",
+      "date": "2026-10-07",
+      "publicationDate": "2026-10-13",
+      "title": "Columbus Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20972/columbus-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-20972",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11073",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-20969",
+      "date": "2026-10-07",
+      "publicationDate": "2026-10-13",
+      "title": "National Energy Dominance Month, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/10/13/2026-20969/national-energy-dominance-month-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-20969",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11072",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 818,
+  "sourceArchiveCount": 1293,
   "newCandidatesThisRun": 2,
   "lastErrors": []
 }
