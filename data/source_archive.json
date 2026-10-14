@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T19:53:36.716564+00:00",
-  "count": 1293,
+  "generatedAt": "2026-10-14T18:02:58.433028+00:00",
+  "count": 1294,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14868,6 +14868,19 @@
       "documentNumber": "2026-20972",
       "executiveOrderNumber": null,
       "proclamationNumber": "11073"
+    },
+    {
+      "key": "fr:2026-21061",
+      "date": "2026-10-07",
+      "publicationDate": "2026-10-14",
+      "title": "Establishment of a Committee of Inquiry To Investigate Allegations of False Statements by Lisa DeNell Cook",
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-21061/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "memorandum",
+      "documentNumber": "2026-21061",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     },
     {
       "key": "fr:2026-20969",
