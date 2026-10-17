@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T17:29:19.812708+00:00",
-  "count": 1294,
+  "generatedAt": "2026-10-17T16:28:59.169500+00:00",
+  "count": 1298,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14811,6 +14811,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026",
+      "date": "2026-10-01",
+      "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026",
       "date": "2026-10-01",
       "title": "National Energy Dominance Month, 2026",
@@ -14894,6 +14904,45 @@
       "documentNumber": "2026-20969",
       "executiveOrderNumber": null,
       "proclamationNumber": "11072"
+    },
+    {
+      "key": "fr:2026-21430",
+      "date": "2026-10-15",
+      "publicationDate": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to Significant Narcotics Traffickers Centered in Colombia",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21430/continuation-of-the-national-emergency-with-respect-to-significant-narcotics-traffickers-centered-in",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-21430",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-21431",
+      "date": "2026-10-15",
+      "publicationDate": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to Sudan",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21431/continuation-of-the-national-emergency-with-respect-to-sudan",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-21431",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-21432",
+      "date": "2026-10-15",
+      "publicationDate": "2026-10-19",
+      "title": "Continuation of the National Emergency With Respect to the Democratic Republic of the Congo",
+      "url": "https://www.federalregister.gov/documents/2026/10/19/2026-21432/continuation-of-the-national-emergency-with-respect-to-the-democratic-republic-of-the-congo",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-21432",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
