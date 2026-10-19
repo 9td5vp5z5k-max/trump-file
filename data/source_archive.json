@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T16:34:52.715252+00:00",
-  "count": 1298,
+  "generatedAt": "2026-10-19T19:21:34.329091+00:00",
+  "count": 1299,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14779,6 +14779,16 @@
       "documentNumber": "2026-20439",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life",
+      "date": "2026-10-01",
+      "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
     },
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026",
