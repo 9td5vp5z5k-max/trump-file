@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T18:02:04.216148+00:00",
-  "count": 1301,
+  "generatedAt": "2026-10-23T17:53:37.737126+00:00",
+  "count": 1305,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14781,6 +14781,16 @@
       "proclamationNumber": null
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+      "date": "2026-10-01",
+      "title": "Adjusting Imports of Wind Turbines and Their Parts and Components into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life",
       "date": "2026-10-01",
       "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
@@ -14795,6 +14805,16 @@
       "date": "2026-10-01",
       "title": "Columbus Day, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people",
+      "date": "2026-10-01",
+      "title": "DECREASING HOUSING COSTS FOR THE AMERICAN PEOPLE",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/decreasing-housing-costs-for-the-american-people/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -14845,6 +14865,26 @@
       "date": "2026-10-01",
       "title": "National Manufacturing Day, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-manufacturing-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026",
+      "date": "2026-10-01",
+      "title": "National Seafood Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-seafood-month-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139",
+      "date": "2026-10-01",
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
