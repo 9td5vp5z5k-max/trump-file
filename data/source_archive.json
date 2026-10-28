@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T18:44:17.186353+00:00",
-  "count": 1306,
+  "generatedAt": "2026-10-28T18:53:36.836870+00:00",
+  "count": 1310,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15028,6 +15028,58 @@
       "kind": "executive_order",
       "documentNumber": "2026-21666",
       "executiveOrderNumber": "14437",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-22049",
+      "date": "2026-10-22",
+      "publicationDate": "2026-10-28",
+      "title": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22049",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11074"
+    },
+    {
+      "key": "fr:2026-22051",
+      "date": "2026-10-22",
+      "publicationDate": "2026-10-28",
+      "title": "Decreasing Housing Costs for the American People",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22051/decreasing-housing-costs-for-the-american-people",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-22051",
+      "executiveOrderNumber": "14438",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-22050",
+      "date": "2026-10-22",
+      "publicationDate": "2026-10-28",
+      "title": "National Seafood Month, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22050/national-seafood-month-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22050",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11075"
+    },
+    {
+      "key": "fr:2026-22052",
+      "date": "2026-10-22",
+      "publicationDate": "2026-10-28",
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+      "url": "https://www.federalregister.gov/documents/2026/10/28/2026-22052/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-22052",
+      "executiveOrderNumber": null,
       "proclamationNumber": null
     }
   ],
