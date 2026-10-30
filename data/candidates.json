@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-10-29T18:58:38.474758+00:00",
+  "lastDiscoveryRun": "2026-10-30T18:39:18.531545+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17739,9 +17739,24 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-22292",
+      "date": "2026-10-23",
+      "publicationDate": "2026-10-30",
+      "title": "Further Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22292/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22292",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11076",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 870,
+  "sourceArchiveCount": 1312,
   "newCandidatesThisRun": 1,
   "lastErrors": []
 }
