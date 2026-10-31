@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T18:39:18.531545+00:00",
-  "count": 1312,
+  "generatedAt": "2026-10-31T17:48:39.008969+00:00",
+  "count": 1314,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15104,6 +15104,32 @@
       "documentNumber": "2026-22292",
       "executiveOrderNumber": null,
       "proclamationNumber": "11076"
+    },
+    {
+      "key": "fr:2026-22385",
+      "date": "2026-10-28",
+      "publicationDate": "2026-11-02",
+      "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22385",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11077"
+    },
+    {
+      "key": "fr:2026-22386",
+      "date": "2026-10-28",
+      "publicationDate": "2026-11-02",
+      "title": "Delegation of Authority Under Section 8335 of the National Defense Authorization Act for Fiscal Year 2026",
+      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22386/delegation-of-authority-under-section-8335-of-the-national-defense-authorization-act-for-fiscal-year",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "memorandum",
+      "documentNumber": "2026-22386",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
     }
   ],
   "errors": [],
