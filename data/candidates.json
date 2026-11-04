@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-03T20:08:52.180513+00:00",
+  "lastDiscoveryRun": "2026-11-04T20:27:05.630459+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17784,9 +17784,33 @@
       "proclamationNumber": null,
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026",
+      "date": "2026-11-01",
+      "title": "ANTI-COMMUNISM WEEK, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space",
+      "date": "2026-11-01",
+      "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1314,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1316,
+  "newCandidatesThisRun": 2,
   "lastErrors": []
 }

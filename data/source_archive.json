@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T20:08:52.180513+00:00",
-  "count": 1314,
+  "generatedAt": "2026-11-04T20:27:05.630459+00:00",
+  "count": 1316,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15130,6 +15130,26 @@
       "documentNumber": "2026-22386",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026",
+      "date": "2026-11-01",
+      "title": "ANTI-COMMUNISM WEEK, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space",
+      "date": "2026-11-01",
+      "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
     }
   ],
   "errors": [],
