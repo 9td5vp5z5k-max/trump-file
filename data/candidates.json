@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-04T20:27:05.630459+00:00",
+  "lastDiscoveryRun": "2026-11-05T20:41:54.880958+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17808,9 +17808,69 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-22685",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-05",
+      "title": "Continuation of the National Emergency With Respect to Iran",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22685/continuation-of-the-national-emergency-with-respect-to-iran",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-22685",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-22686",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-05",
+      "title": "Continuation of the National Emergency With Respect to the Proliferation of Weapons of Mass Destruction",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22686/continuation-of-the-national-emergency-with-respect-to-the-proliferation-of-weapons-of-mass",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-22686",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-22687",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-05",
+      "title": "Continuation of the National Emergency With Respect to the Situation in Nicaragua",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22687/continuation-of-the-national-emergency-with-respect-to-the-situation-in-nicaragua",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-22687",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-22688",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-05",
+      "title": "Continuation of the National Emergency With Respect to the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China",
+      "url": "https://www.federalregister.gov/documents/2026/11/05/2026-22688/continuation-of-the-national-emergency-with-respect-to-the-threat-from-securities-investments-that",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "notice",
+      "documentNumber": "2026-22688",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1316,
-  "newCandidatesThisRun": 2,
+  "sourceArchiveCount": 1320,
+  "newCandidatesThisRun": 4,
   "lastErrors": []
 }
