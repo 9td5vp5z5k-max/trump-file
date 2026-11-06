@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T20:41:54.880958+00:00",
-  "count": 1320,
+  "generatedAt": "2026-11-06T19:58:45.818397+00:00",
+  "count": 1323,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15142,6 +15142,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument",
+      "date": "2026-11-01",
+      "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space",
       "date": "2026-11-01",
       "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
@@ -15150,6 +15160,19 @@
       "sourceTier": "primary",
       "kind": "presidential_action",
       "datePrecision": "month"
+    },
+    {
+      "key": "fr:2026-22787",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-06",
+      "title": "Anti-Communism Week, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22787/anti-communism-week-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22787",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11078"
     },
     {
       "key": "fr:2026-22685",
@@ -15202,6 +15225,19 @@
       "documentNumber": "2026-22688",
       "executiveOrderNumber": null,
       "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-22789",
+      "date": "2026-11-03",
+      "publicationDate": "2026-11-06",
+      "title": "The American Declaration of Freedom in Space",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22789/the-american-declaration-of-freedom-in-space",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-22789",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11079"
     }
   ],
   "errors": [],
