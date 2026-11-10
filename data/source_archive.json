@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T23:00:41.382207+00:00",
-  "count": 1323,
+  "generatedAt": "2026-11-10T20:29:31.621066+00:00",
+  "count": 1324,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -14278,6 +14278,16 @@
       "date": "2026-09-01",
       "title": "National POW/MIA Recognition Day, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc",
+      "date": "2026-09-01",
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
