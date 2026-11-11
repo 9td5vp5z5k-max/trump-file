@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-10T20:29:31.621066+00:00",
+  "lastDiscoveryRun": "2026-11-11T20:13:47.008251+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17922,9 +17922,60 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4",
+      "date": "2026-11-01",
+      "title": "Nominations and Withdrawals Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
+      "date": "2026-11-01",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026",
+      "date": "2026-11-01",
+      "title": "VETERANS DAY, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/veterans-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-23113",
+      "date": "2026-11-05",
+      "publicationDate": "2026-11-12",
+      "title": "Establishment of the Oval Office National Monument",
+      "url": "https://www.federalregister.gov/documents/2026/11/12/2026-23113/establishment-of-the-oval-office-national-monument",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-23113",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11080",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1324,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1328,
+  "newCandidatesThisRun": 4,
   "lastErrors": []
 }
