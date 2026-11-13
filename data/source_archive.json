@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T20:53:09.728335+00:00",
-  "count": 1328,
+  "generatedAt": "2026-11-13T20:31:00.744531+00:00",
+  "count": 1330,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15132,6 +15132,19 @@
       "proclamationNumber": null
     },
     {
+      "key": "fr:2026-23233",
+      "date": "2026-10-28",
+      "publicationDate": "2026-11-13",
+      "title": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23233/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-23233",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026",
       "date": "2026-11-01",
       "title": "ANTI-COMMUNISM WEEK, 2026",
@@ -15146,6 +15159,16 @@
       "date": "2026-11-01",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+      "date": "2026-11-01",
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",

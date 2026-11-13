@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-12T20:53:09.728335+00:00",
+  "lastDiscoveryRun": "2026-11-13T20:31:00.744531+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -17973,9 +17973,36 @@
       "proclamationNumber": "11080",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-23233",
+      "date": "2026-10-28",
+      "publicationDate": "2026-11-13",
+      "title": "Presidential Determination Pursuant to Section 1245(d)(4)(B) and (C) of the National Defense Authorization Act for Fiscal Year 2012",
+      "url": "https://www.federalregister.gov/documents/2026/11/13/2026-23233/presidential-determination-pursuant-to-section-1245d4b-and-c-of-the-national-defense-authorization",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-23233",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+      "date": "2026-11-01",
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1328,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1330,
+  "newCandidatesThisRun": 2,
   "lastErrors": []
 }
