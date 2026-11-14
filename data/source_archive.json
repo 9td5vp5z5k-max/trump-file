@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T20:31:00.744531+00:00",
-  "count": 1330,
+  "generatedAt": "2026-11-14T18:45:48.574008+00:00",
+  "count": 1332,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15314,6 +15314,32 @@
       "documentNumber": "2026-23113",
       "executiveOrderNumber": null,
       "proclamationNumber": "11080"
+    },
+    {
+      "key": "fr:2026-23349",
+      "date": "2026-11-10",
+      "publicationDate": "2026-11-16",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-23349",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-23348",
+      "date": "2026-11-10",
+      "publicationDate": "2026-11-16",
+      "title": "Veterans Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-23348",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11081"
     }
   ],
   "errors": [],

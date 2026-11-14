@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-13T20:31:00.744531+00:00",
+  "lastDiscoveryRun": "2026-11-14T18:45:48.574008+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -18000,9 +18000,39 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-23349",
+      "date": "2026-11-10",
+      "publicationDate": "2026-11-16",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "determination",
+      "documentNumber": "2026-23349",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-23348",
+      "date": "2026-11-10",
+      "publicationDate": "2026-11-16",
+      "title": "Veterans Day, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-23348",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11081",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1330,
+  "sourceArchiveCount": 1332,
   "newCandidatesThisRun": 2,
   "lastErrors": []
 }
