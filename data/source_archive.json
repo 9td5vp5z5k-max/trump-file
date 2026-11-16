@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T19:24:07.103899+00:00",
-  "count": 1332,
+  "generatedAt": "2026-11-16T22:55:55.949640+00:00",
+  "count": 1333,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15159,6 +15159,16 @@
       "date": "2026-11-01",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
+      "date": "2026-11-01",
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
