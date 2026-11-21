@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T21:13:20.257397+00:00",
-  "count": 1333,
+  "generatedAt": "2026-11-21T20:08:12.604956+00:00",
+  "count": 1335,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -15165,6 +15165,16 @@
       "datePrecision": "month"
     },
     {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026",
+      "date": "2026-11-01",
+      "title": "NATIONAL ADOPTION MONTH, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864",
       "date": "2026-11-01",
       "title": "Nominations Sent to the Senate",
@@ -15199,6 +15209,16 @@
       "date": "2026-11-01",
       "title": "Nominations and Withdrawals Sent to the Senate",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
+      "date": "2026-11-01",
+      "title": "PROTECTING THE EXECUTIVE’S PRIVILEGES AND ENHANCING EFFICIENCIES IN FEDERAL CONTRACTING",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
