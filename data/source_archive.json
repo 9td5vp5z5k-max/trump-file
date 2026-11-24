@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T20:23:05.503238+00:00",
-  "count": 1335,
+  "generatedAt": "2026-11-24T00:58:32.119304+00:00",
+  "count": 1334,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -397,16 +397,6 @@
       "date": "2025-01-01",
       "title": "President Donald J. Trump Signed S.5 into Law",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/president-donald-j-trump-signed-s-5-into-law/",
-      "source": "White House Presidential Actions",
-      "sourceTier": "primary",
-      "kind": "presidential_action",
-      "datePrecision": "month"
-    },
-    {
-      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders",
-      "date": "2025-01-01",
-      "title": "President Trump Announces Acting Cabinet and Cabinet-Level Positions",
-      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -14841,16 +14831,6 @@
       "datePrecision": "month"
     },
     {
-      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook",
-      "date": "2026-10-01",
-      "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
-      "source": "White House Presidential Actions",
-      "sourceTier": "primary",
-      "kind": "presidential_action",
-      "datePrecision": "month"
-    },
-    {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles",
       "date": "2026-10-01",
       "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES",
@@ -15159,6 +15139,16 @@
       "date": "2026-11-01",
       "title": "ESTABLISHMENT OF THE OVAL OFFICE NATIONAL MONUMENT",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes",
+      "date": "2026-11-01",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
