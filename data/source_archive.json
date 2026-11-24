@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T00:58:32.119304+00:00",
-  "count": 1334,
+  "generatedAt": "2026-11-24T23:03:19.428017+00:00",
+  "count": 1336,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -397,6 +397,16 @@
       "date": "2025-01-01",
       "title": "President Donald J. Trump Signed S.5 into Law",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/01/president-donald-j-trump-signed-s-5-into-law/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders",
+      "date": "2025-01-01",
+      "title": "President Trump Announces Acting Cabinet and Cabinet-Level Positions",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/designation-of-acting-leaders/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -14825,6 +14835,16 @@
       "date": "2026-10-01",
       "title": "Emergency Tax Relief on Diesel Fuel",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook",
+      "date": "2026-10-01",
+      "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/establishment-of-a-committee-of-inquiry-to-investigate-allegations-of-false-statements-by-lisa-denell-cook/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
