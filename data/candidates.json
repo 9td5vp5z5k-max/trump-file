@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-24T23:03:19.428017+00:00",
+  "lastDiscoveryRun": "2026-11-25T22:36:04.960081+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -18078,9 +18078,51 @@
       "datePrecision": "month",
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026",
+      "date": "2026-11-01",
+      "title": "Thanksgiving Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/thanksgiving-day-2026/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-24113",
+      "date": "2026-11-20",
+      "publicationDate": "2026-11-25",
+      "title": "National Adoption Month, 2026",
+      "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24113/national-adoption-month-2026",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "proclamation",
+      "documentNumber": "2026-24113",
+      "executiveOrderNumber": null,
+      "proclamationNumber": "11082",
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-24114",
+      "date": "2026-11-20",
+      "publicationDate": "2026-11-25",
+      "title": "Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting",
+      "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24114/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "executive_order",
+      "documentNumber": "2026-24114",
+      "executiveOrderNumber": "14439",
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1336,
-  "newCandidatesThisRun": 0,
+  "sourceArchiveCount": 1338,
+  "newCandidatesThisRun": 3,
   "lastErrors": []
 }
