@@ -1,5 +1,5 @@
 {
-  "lastDiscoveryRun": "2026-11-25T22:36:04.960081+00:00",
+  "lastDiscoveryRun": "2026-11-26T22:24:04.762240+00:00",
   "candidates": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2026/02/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
@@ -18120,9 +18120,24 @@
       "proclamationNumber": null,
       "status": "candidate",
       "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
+    },
+    {
+      "key": "fr:2026-24236",
+      "date": "2026-11-23",
+      "publicationDate": "2026-11-27",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24236/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "memorandum",
+      "documentNumber": "2026-24236",
+      "executiveOrderNumber": null,
+      "proclamationNumber": null,
+      "status": "candidate",
+      "editorialNote": "Primary source discovered automatically. Review relevance, context, and corroboration before publishing as a verified/satirical archive entry."
     }
   ],
-  "sourceArchiveCount": 1338,
-  "newCandidatesThisRun": 3,
+  "sourceArchiveCount": 1340,
+  "newCandidatesThisRun": 1,
   "lastErrors": []
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T22:36:04.960081+00:00",
-  "count": 1338,
+  "generatedAt": "2026-11-26T22:24:04.762240+00:00",
+  "count": 1340,
   "records": [
     {
       "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/01/additional-measures-to-combat-anti-semitism",
@@ -7611,6 +7611,16 @@
       "date": "2025-08-01",
       "title": "Measures To End Cashless Bail And Enforce The Law In The District Of Columbia",
       "url": "https://www.whitehouse.gov/presidential-actions/2025/08/measures-to-end-cashless-bail-and-enforce-the-law-in-the-district-of-columbia/",
+      "source": "White House Presidential Actions",
+      "sourceTier": "primary",
+      "kind": "presidential_action",
+      "datePrecision": "month"
+    },
+    {
+      "key": "wh:https://www.whitehouse.gov/presidential-actions/2025/08/overdose-prevention-week-2025",
+      "date": "2025-08-01",
+      "title": "Overdose Prevention Week, 2025",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/08/overdose-prevention-week-2025/",
       "source": "White House Presidential Actions",
       "sourceTier": "primary",
       "kind": "presidential_action",
@@ -15405,6 +15415,19 @@
       "kind": "executive_order",
       "documentNumber": "2026-24114",
       "executiveOrderNumber": "14439",
+      "proclamationNumber": null
+    },
+    {
+      "key": "fr:2026-24236",
+      "date": "2026-11-23",
+      "publicationDate": "2026-11-27",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24236/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous",
+      "source": "Federal Register",
+      "sourceTier": "primary",
+      "kind": "memorandum",
+      "documentNumber": "2026-24236",
+      "executiveOrderNumber": null,
       "proclamationNumber": null
     }
   ],
